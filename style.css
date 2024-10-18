@@ -1,0 +1,30 @@
+*{
+
+    background-image:  url(00130acf9b3406f85f77b9404ca3aae5.jpg);
+
+
+}
+
+
+.abc ,input,button{
+
+background-color:white;
+font-family: 'Times New Roman', Times, serif;
+padding-left: 5%;
+font-weight: bold;
+font-style: oblique;
+
+}
+
+.abc{
+margin-left:40% ;
+border: 10px;
+}
+.container{
+    width: 300px;
+    height: 200px;
+    border: 7px solid black;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+  }
+    
